@@ -1,14 +1,16 @@
 # **Takım İsmi**
 
-Takım X
+Takım 193
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Abbas Karaduman: Product Owner
+- Mehmetcan Samet Kır: Scrum Master
+- Hayrunnisa Bıyıklı: Team Member/Developer
+- Emirhan Küçük: Team Member/Developer
+- Nezire Tosun: Team Member/Developer
 
 ## Ürün İsmi
 
