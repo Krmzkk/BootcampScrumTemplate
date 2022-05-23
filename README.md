@@ -6,11 +6,9 @@ Takım 193
 
 ## Takım Elemanları
 
-- Abbas Karaduman: Product Owner
-- Mehmetcan Samet Kır: Scrum Master/UI-UX Designer
-- Hayrunnisa Bıyıklı: Team Member/Developer/Idea Owner
-- Emirhan Küçük: Team Member/Developer
-- Nezire Tosun: Team Member/Developer
+- Hayrunnisa Bıyıklı: Product Owner/Developer
+- Mehmetcan Samet Kır: Scrum Master/Developer
+
 
 ## Ürün İsmi
 
