@@ -14,66 +14,69 @@ Takım 193
 
 ## Ürün İsmi
 
---Movie App--
+###   Cafind
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- İnsanlar bazen gitmek istedikleri kafeyi seçmekte bazen de kendilerine yakın kafeleri bulmakta zorlanıyor. Cafind uygulamamız ile insanların gitmek istediği tarzda kafeleri onların istedikleri konumlara göre listeleyeceğiz ve daha kolay karar vermelerini sağlayacağız. Uygulamamız aynı zamanda ruh halinize göre kafe önerilerinde bulunacak ve sizlere kafeleri puanlama fırsatı da verecek.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+-	Kafeleri türlerine göre ayırma
+-	İstenilen konuma göre kafe bulma
+-	Kullanıcılara kafe puanlama imkânı verme
+-	Ruh halinize göre kafe önerme
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Farklı tarzda kafeler keşfetmek isteyenler
+- Kafe tercihi konusunda sorun yaşayanlar
+-	Konuma göre kafeleri öğrenmek isteyenler
+
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello Backlog Board](https://trello.com/b/XBwTw0px/project-management)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**:
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 ile başlaması gerektiğine karar verildi.
+- Sprint 1: 40 puan, Sprint 2: 30 puan, Sprint 3: 30 puan 
+
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- Trello'da iş takibi için etiketler; Yeşil: Tamamlandı, Turuncu: Yapılacak, Kırmızı: Öncelikli, Mavi: Devam eden, Mor: Sonraki Sprint olarak seçilmiştir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint1Documents/Meeting%20Chat.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint1Documents/Sprint1%20Trello.png?raw=true)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- 
-- 
-  ![Screenshot 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot/Kay%C4%B1t.png?raw=true)
-  ![Screenshot 2](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot/Giris.png?raw=true)
-  ![Screenshot 3](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot/Ana%20Ekran.png?raw=true)
+ 
+  ![Screenshot 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Kay%C4%B1t.png?raw=true)
+  ![Screenshot 2](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Giris.png?raw=true)
+  ![Screenshot 3](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Ana%20ekran.png?raw=true)
+  ![Screenshot 4](hhttps://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Profil.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Verilerin elle girilmesi yerine googledan çekilmesinin daha kolay olacağına karar verildi. Uygulama arayüzü tasarlandı ancak arayüzde kullanılacak renklerin daha uygun bir paletle güncellenmesi sonraki sprinte bırakıldı. Özelliklere nelerin eklenebileceği ve uygulamanın gelecekti durumu planlandı.
+Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunisa Bıyıklı, Emirhan Küçük, Nezire Tosun
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içi iletişim güçlendirilmeli
+  - Takım içinde görev dağılımlarının daha net bir şekilde yapılmasına karar verildi
+  - User stories ve puanlamalar gözden geçirilmeli ve yapılmalı
+  - Flutter uygulamasının kodlama kısmına hız verilmeli
 
 -**Diğer Notlar**:
 - N/A
@@ -82,9 +85,27 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 # Sprint 2
 
+- **Sprint Notları**: GÖREV DAĞILIMI YAPILDI ANCAK KİMSE GÖREVİNİ YERİNE GETİRMEDİĞİ İÇİN BU SPRİNT HERHANGİ BİR ÇALIŞMA YAPILMAMIŞ OLDU VE HEDEFLENEN PUANA ULAŞMAMIŞ OLDUK. DURUM AKADEMİYE BİLDİRİLDİ CEVAP BEKLENİYOR.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+- **Sprint içinde tamamlanan puan**: 0 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint2Documents/Meeting%20Chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint2Documents/Sprint2trello.PNG?raw=true)
+
+- **Sprint Review**: 
+ Takımın görev bilincinde olup işlerini ciddiye almaları gerekli.
+
+- **Sprint Retrospective:**
+  Toplantı YAPILAMADI
+
+
 
 ---
 
 # Sprint 3
 
 ---
+
