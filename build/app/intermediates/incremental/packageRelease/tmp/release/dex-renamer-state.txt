@@ -1,0 +1,4 @@
+#Thu Jun 02 00:38:36 TRT 2022
+base.0=X\:\\HesapMakinesi\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
