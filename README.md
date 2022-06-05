@@ -107,5 +107,33 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 
 # Sprint 3
 
+- **Sprint Notları**: Takımdaki işlerde aktif olmayan ekip arkadaşları olması sonucunda cafind uygulamasının yapılması imkansız hale geldi, bu sebeple o projeden vazgeçilip mezun olabilmek için hesap makinesi yapılmasına karar verildi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint3Documents/Meeting%20Chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint3Documents/TrelloS3.png?raw=true)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+ 
+  ![App Logo](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/LogoHM.png?raw=true)
+  ![Screenshot 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-38-38-485_com.krmzk.calculator.jpg?raw=true)
+  ![Screenshot 2](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-39-14-519_com.krmzk.calculator.jpg?raw=true)
+  ![Screenshot 3](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-38-48-049_com.miui.securitycenter.jpg?raw=true)
+
+
+- **Sprint Review**: 
+Alınan kararlar: 
+Sprint Review katılımcıları: Mehmetcan Samet Kır, Hayrunisa Bıyıklı, Emirhan Küçük, Nezire Tosun
+
+- **Sprint Retrospective:**
+  - 
+
+-**Diğer Notlar**:
+- N/A
+
 ---
 
