@@ -125,11 +125,10 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunni
 
 
 - **Sprint Review**: 
-Alınan kararlar: Yapılacak uygulama değiştirilerek teslim edilebilir bir uygulama yapılmasına karar verildi.
+- Alınan kararlar: Yapılacak uygulama değiştirilerek teslim edilebilir bir uygulama yapılmasına karar verildi.
 
 - **Sprint Retrospective:**
   - Takım üyelerinin aktif ve iş bitirici olmaları, süreci kolaylaştırıp tek kişiye yükün binmesine engel olabilirdi.
   - Bir uygulama yapıldı ancak istenilen proje yapılamadı.
-  - 
 ---
 
