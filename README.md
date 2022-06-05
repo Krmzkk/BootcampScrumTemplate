@@ -119,7 +119,6 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 
 - **Ürün Durumu**: Ekran görüntüleri:
  
-  ![App Logo](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/LogoHM.png?raw=true)
   ![Screenshot 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-38-38-485_com.krmzk.calculator.jpg?raw=true)
   ![Screenshot 2](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-39-14-519_com.krmzk.calculator.jpg?raw=true)
   ![Screenshot 3](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Hesap%20Makinesi%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_2022-06-05-04-38-48-049_com.miui.securitycenter.jpg?raw=true)
