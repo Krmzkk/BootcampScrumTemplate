@@ -66,7 +66,7 @@ Takım 193
   ![Screenshot 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Kay%C4%B1t.png?raw=true)
   ![Screenshot 2](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Giris.png?raw=true)
   ![Screenshot 3](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Ana%20ekran.png?raw=true)
-  ![Screenshot 4](hhttps://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Profil.png?raw=true)
+  ![Screenshot 4](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/App%20Screenshot%20V2/Profil.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Verilerin elle girilmesi yerine googledan çekilmesinin daha kolay olacağına karar verildi. Uygulama arayüzü tasarlandı ancak arayüzde kullanılacak renklerin daha uygun bir paletle güncellenmesi sonraki sprinte bırakıldı. Özelliklere nelerin eklenebileceği ve uygulamanın gelecekti durumu planlandı.
