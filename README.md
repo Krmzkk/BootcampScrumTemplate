@@ -70,7 +70,7 @@ Takım 193
 
 - **Sprint Review**: 
 Alınan kararlar: Verilerin elle girilmesi yerine googledan çekilmesinin daha kolay olacağına karar verildi. Uygulama arayüzü tasarlandı ancak arayüzde kullanılacak renklerin daha uygun bir paletle güncellenmesi sonraki sprinte bırakıldı. Özelliklere nelerin eklenebileceği ve uygulamanın gelecekti durumu planlandı.
-Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunisa Bıyıklı, Emirhan Küçük, Nezire Tosun
+Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunnisa Bıyıklı, Emirhan Küçük, Nezire Tosun
 
 - **Sprint Retrospective:**
   - Takım içi iletişim güçlendirilmeli
@@ -111,7 +111,7 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint3Documents/Meeting%20Chats.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint3Documents/Meeting%20Chats.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint3Documents/TrelloS3.png?raw=true)
@@ -125,14 +125,11 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 
 
 - **Sprint Review**: 
-Alınan kararlar: 
-Sprint Review katılımcıları: Mehmetcan Samet Kır, Hayrunisa Bıyıklı, Emirhan Küçük, Nezire Tosun
+Alınan kararlar: Yapılacak uygulama değiştirilerek teslim edilebilir bir uygulama yapılmasına karar verildi.
 
 - **Sprint Retrospective:**
+  - Takım üyelerinin aktif ve iş bitirici olmaları, süreci kolaylaştırıp tek kişiye yükün binmesine engel olabilirdi.
+  - Bir uygulama yapıldı ancak istenilen proje yapılamadı.
   - 
-
--**Diğer Notlar**:
-- N/A
-
 ---
 
